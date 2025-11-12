@@ -8,7 +8,7 @@
 *
 *     Version: OTISR         Okt. 2023
 *
-*     Author: Mortimer Bacher
+*     Author: Johanna Bacher
 *
 ************************************************************************
 *     Based on: OTIS (One-dimensional Transport with Inflow and Storage)
