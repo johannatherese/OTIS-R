@@ -1,5 +1,5 @@
 % Code name: BTC_analysis  
-% Author: Mortimer Luka Bacher (modified after Bonnano et al (2022) and Ward et al (2017))
+% Author: Johanna Bacher (modified after Bonnano et al (2022) and Ward et al (2017))
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
 %% Reach 1
@@ -496,4 +496,5 @@ movefile Output_files_OTISR R5Output_files_OTISR
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
